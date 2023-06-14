@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UberApp</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_driver">DriverActivity</string>
+    <string name="title_activity_client">ClientActivity</string>
+
+</resources>
